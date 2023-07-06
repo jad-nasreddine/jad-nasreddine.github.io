@@ -1,0 +1,434 @@
+/* all*/
+. {
+	FONT-SIZE: 12px;
+	text-align:center;	
+	COLOR:#000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	line-height: normal;
+	margin-left: 6px;
+	margin-top: 8px	
+}
+
+P {
+	FONT-SIZE: 12px;
+	text-align:justify;	
+	COLOR:#000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	line-height: normal;
+	margin-left: 6px;
+	margin-top: 8px
+}
+
+A {
+	COLOR: #328B53;
+	TEXT-DECORATION: none
+}
+
+A:hover {
+	COLOR: #ed1261;
+	TEXT-DECORATION: none
+}
+
+/*A.MainMenu {
+	COLOR: #328B53;
+	font-weight:bold;
+	font-size:18px;
+	TEXT-DECORATION: none;
+	font-family:"BernhardFashion BT";
+	text-align: center;
+}
+
+A.MainMenu:hover {
+	COLOR: #ed1261;
+	TEXT-DECORATION: none;
+	font-size:20px
+}
+
+A.Menu {
+	COLOR: #328B53;
+	font-weight:bold;
+	font-size:14px;
+	TEXT-DECORATION: none;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+A.Menu:hover {
+	COLOR: #ed1261;
+	TEXT-DECORATION: none;
+	font-size:15px
+}
+
+P.MainTitle {
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:24px;
+	font-family:"BernhardFashion BT";
+	text-align:center
+	}
+
+.MainMenu {
+	COLOR: #328B53;
+	font-weight:bold;
+	font-size:18px;
+	TEXT-DECORATION: none;
+	font-family:"BernhardFashion BT";
+	text-align: center;
+}
+
+P.Menu {
+	COLOR: #ed1261;
+	font-weight:bold;
+	font-size:15px;
+	TEXT-DECORATION: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-align: left;
+	margin-left: 0;
+	margin-top: 0;
+}
+*/
+
+TD {
+	FONT-SIZE: 12px;
+	text-align:justify;	
+	COLOR:#000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	line-height: normal;
+	margin-left: 0px;
+	margin-top: 8px;
+}
+
+TD.Title {
+	FONT-SIZE: 14px;
+	font-weight:bold;
+	text-align:left;
+	margin-left: 0px;
+	COLOR:#C0C0C0;
+}
+
+.Line {color: #C0C0C0;}
+
+
+
+td.Menu1 {
+	COLOR: #ed1261;
+	font-weight:bold;
+	font-size:15px;
+	TEXT-DECORATION: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-align: left;
+	margin-left: 0;
+	margin-top: 0;
+	padding:0px;
+}
+
+/* Index */
+.Grey_bgcolor{
+	background-color:#c0c0c0;
+}
+
+.contact{
+color:#328B53;
+}
+
+.contact:hover{
+	 color:#ed1261;
+}
+
+/* Links.html */
+div.left{
+	border-radius: 10px;
+	padding-top:5px;
+	padding-left:5px;
+	padding-right:5px;
+	background-color:#eaeaea;
+	background-image: linear-gradient(to bottom right,#eaeaea, white);
+	margin-bottom:20px;
+}
+div.right{
+	border-radius: 10px;
+	padding-top:5px;
+	padding-left:5px;
+	padding-right:5px;
+	background-color:#eaeaea;
+	background-image: linear-gradient(to bottom right,#eaeaea, white);
+	margin-bottom:20px;
+	position:absolute;
+	right:0px;
+}
+
+p.Title {
+	font-weight:bold;
+	text-align:left;
+	margin-left: 0px;
+}
+
+/* Lebanon.html */
+body.lebanon{
+	BACKGROUND-COLOR: #000000;
+}
+
+.style1 {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 20px; 
+	COLOR: red; 
+	TEXT-ALIGN: center;
+	width:999px;
+}
+
+.style4 {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 20px; 
+	TEXT-ALIGN: center;
+	width:999px;
+	COLOR: #ff0000;
+}
+
+/* Resume */
+.desc{
+	list-style-type:square;
+}
+
+TD.Title-city {
+	font-weight:bold;
+	text-align:left;
+	margin-left: 0px;
+	width:304px;
+	padding-bottom:10px;
+}
+
+TD.Title-affil {
+	font-weight:bold;
+	text-align:left;
+	margin-left: 0px;
+	width:219px;
+	padding-bottom:10px;
+}
+
+TD.Title-date {
+	font-weight:bold;
+	text-align:right;
+	margin-left: 0px;
+	width:131px;
+	padding-bottom:10px;
+}
+
+/*Research.html*/
+.Publications {
+	font-size: 11px;
+	color:#328B53;
+	margin-left: 0px;
+	margin-right: 0px;
+	font-weight: bold
+}
+
+/*Publications.html*/
+.Keywords {
+	font-size: 11px;
+	margin-left: 0px;
+	margin-right: 0px;
+	font-weight: bold
+}
+
+/* Navigation Bar*/
+#nav_bar{
+	border-radius: 10px;
+	LEFT: 800px; 
+	WIDTH: 120px; 
+	POSITION:fixed; 
+	top:300px;
+	padding-top:0px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-bottom:5px;
+	z-index: 0;
+	background-color:#c0c0c0;
+	background-image: linear-gradient(to bottom right,#c0c0c0, white);
+}
+
+#nav_bar td{
+	width:110px;
+	height:15px;
+}
+#nav_bar table{
+	background-color:white;
+	border:0px none;
+}
+
+A.Title {
+	font-size:12px;
+	COLOR: #328B53;
+	font-weight:bold;
+	TEXT-DECORATION: none;
+	text-align:center
+}
+
+ul{
+margin-top:1px;}
+
+A.Title:hover {
+	font-size:13px;
+	COLOR: #ed1261;
+	TEXT-DECORATION: none;
+	font-size:12px;
+	background-position: center
+}
+
+/* Layout in all files */
+table.Layout{
+	width:780px;
+	height:100%;
+	border:0px;
+	text-align:left;
+	border-collapse: collapse;
+	border: 0px none;
+	border-spacing:0px;
+}
+
+table.Layout td{
+	vertical-align:top;
+	padding:0px;
+}
+
+/* Main bar in all */
+table.Mainbar{
+	border-collapse: collapse;
+	border: 0px none;
+	border-spacing:0px;
+	width:100%;
+}
+
+
+table.name{
+	border: 0px none;
+	border-spacing:0px;
+	border-collapse: collapse;
+	border: 0px none;
+}
+
+table.name td{
+	width:80px;
+	height:10px;
+}
+
+
+
+.bullet{
+	width:5px;
+	height:5px;
+}
+
+.bigbullet{
+	width:10px;
+	height:10px;
+}
+
+/* Content Publications.html, Links.html, Resume.html*/
+TD.SubTitle{
+	COLOR: #328B53;
+	font-weight:bold;
+	text-align:left;
+	font-size:14px;
+	TEXT-DECORATION: none;
+	font-family: Arial, Helvetica, sans-serif
+}
+
+/* Calendar and Research */
+P.Menu1 {
+	COLOR: #328B53;
+	font-weight:bold;
+	font-size:14px;
+	TEXT-DECORATION: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-align: left;
+	margin-left: 0;
+	margin-top: 0;
+}
+
+
+/* Publications buttons */
+.btn{
+	display:inline-block;
+	padding:5px 10px;
+	margin-bottom:0;
+	font-size:12px;
+	text-align:center;
+	white-space:nowrap;
+	vertical-align:middle;
+	border-radius:0;
+	color:white;
+	background-color:#328B53;
+	line-height:1.5;
+	margin-left:5px;
+	outline:5px auto -webkit-focus-ring-color;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	font-weight: bold;
+}
+
+.btn:hover, .btn:active, .btn[disabled]{  
+	outline:thin dotted;
+	color:#ed1261;
+}
+
+.btn[disabled]{
+	background-color:#c0c0c0;
+	outline-offset:-2px;
+}
+
+.btn-active{
+	display:inline-block;
+	padding:5px 10px;
+	margin-bottom:0;
+	font-size:12px;
+	text-align:center;
+	white-space:nowrap;
+	vertical-align:middle;
+	border-radius:0;
+	color:#ed1261;
+	background-color:#c0c0c0;
+	line-height:1.5;
+	margin-left:5px;
+	outline:5px auto -webkit-focus-ring-color;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	font-weight: bold;
+	outline-offset:-2px;
+	outline:thin dotted;
+}
+
+.btn-sel{
+	display:inline-block;
+	padding:5px 10px;
+	margin-bottom:0;
+	font-size:10px;
+	text-align:center;
+	white-space:nowrap;
+	vertical-align:middle;
+	color:black;
+	background-color:white;
+	line-height:1.5;
+	font-weight: bold;
+	outline:thin dotted;
+}
+.btn-sel:hover, .btn-sel:active{
+	background-color:#f2f2f2;
+}
+
+#key-search{
+	display:inline-block;
+	padding:5px 10px;
+	margin-bottom:0;
+	font-size:10px;
+	text-align:left;
+	white-space:nowrap;
+	vertical-align:middle;
+	color:#c0c0c0;
+	background-color:white;
+	line-height:1.5;
+	border: 2px solid #c0c0c0;
+	font-weight: bold;
+}

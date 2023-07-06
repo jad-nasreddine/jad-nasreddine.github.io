@@ -1,0 +1,21 @@
+﻿{	
+	"jour":[
+			{"name":"IEEE Transactions on Cognitive Communications and Networking Special Issue on Intelligent Resource Management for 5G and Beyond",
+			"Deadline":"September 1, 2019",
+			"Website":"https://www.comsoc.org/publications/journals/ieee-tccn/cfp/intelligent-resource-management-5g-and-beyond"},
+			{"name":"IEEE Transactions on Green Communications and Networking (TGCN) - Special Section on Energy Efficiency for Internet of Things",
+			"Deadline":"December 31, 2019",
+			"Website":"https://www.comsoc.org/publications/journals/ieee-tgcn/cfp/energy-efficiency-internet-things"}
+	],
+	"conf":[			
+			{"name":"IEEE International Conference on Communications (ICC 2021), Montreal, Canada",
+			"Deadline":"January 20, 2021",
+			"Website":"https://icc2021.ieee-icc.org"},
+			{"name":"IEEE Wireless Communications and Networking Conference (WCNC)",
+			"Deadline":"October 4, 2019",
+			"Website":"https://wcnc2020.ieee-wcnc.org/"},
+			{"name":"The IEEE Asia Pacific Conference on Wireless and Mobile 2021 (APWiMob 2021), Bandung, Indonesia",
+			"Deadline":"January 31, 2021",
+			"Website":"http://apwimob.org"}
+	]
+}

@@ -1,0 +1,10 @@
+﻿{	"cfp":[
+			{"name":"IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)",
+			"Deadline":"June 25, 2019",
+			"Website":"https://dyspan2019.ieee-dyspan.org/call-papers"},
+
+			{"name":"IEEE Wireless Communications and Networking Conference (WCNC)",
+			"Deadline":"October 4, 2019",
+			"Website":"https://wcnc2020.ieee-wcnc.org/"}
+	]
+}

@@ -5,15 +5,15 @@
 "year":"2017",
 "other":" Chapter in Information Innovation Technology in Smart Cities, Springer",
 "key":"Green Networking",
-"keyword":"RRM, Green Networking"
+"keyword":"RRM, Green Networking, Jad"
 },
 {"authors":"J. P&eacute;rez-Romero, O. Sallent, R. Agust&iacute;, J. Nasreddine, M. Muck, ",
 "title":"A decentralized RAT selection algorithm enabled by IEEE P1900.4,",
 "web":"",
 "year":"2008",
-"other":", chapter of Advances in mobile and wireless communications &ndash; views of the 16th IST Mobile and Wireless Communication Summit, Springer",
+"other":" chapter of Advances in mobile and wireless communications &ndash; views of the 16th IST Mobile and Wireless Communication Summit, Springer",
 "key":"Spectrum Management and HetNet",
-"keyword":"HetNET, RRM"
+"keyword":"HetNET, RRM, Jad"
 }
 ],
 "journal":[ 
@@ -22,9 +22,9 @@
 "web":"https://drive.google.com/file/d/1vOWg0Yju4GU59T0NNEY6e3NcXtgOP57G/view?usp=drive_link",
 "DOI":"https://doi.org/10.1109/TCCN.2017.2755010",
 "year":"2017",
-"other":"IEEE Transactions on Cognitive Communications and Networking",
+"other":" IEEE Transactions on Cognitive Communications and Networking",
 "key":"Cognitive Radio and Radio Environmental Maps",
-"keyword":"CN, CR, DSA, DCA"
+"keyword":"CN, CR, DSA, DCA, SON, Jad"
 },
 {"authors":" J. van de Beek, T. Cai, S. Grimoud, P. M&auml;h&ouml;nen, J. Nasreddine, J. Riihij&auml;rvi, B. Sayrac, ",
 "title":"How a layered REM architecture brings cognition to today's mobile networks,",
@@ -33,25 +33,25 @@
 "year":"2012",
 "other":" IEEE Wireless Communications Magazine",
 "key":"Cognitive Radio and Radio Environmental Maps",
-"keyword":""
+"keyword":"REM, CR, CN, Jad"
 },
 {"authors":"T. Cai, J. van de Beek, J. Nasreddine, M. Petrova, P. M&auml;h&ouml;nen, ",
 "title":"A TD-LTE Prototype System with Modules for General-Purpose Cognitive Resource Management and Radio-Environmental Mapping,",
-"web":"frames/IJWIN2011.pdf",
+"web":"https://drive.google.com/file/d/1Gk7zwE7HXXOt3gZsUZUWZ4K61Hk6ub3h/view?usp=drive_link",
 "DOI":"https://doi.org/10.1007/s10776-011-0153-1",
 "year":"2011",
 "other":" International Journal of Wireless Information Networks (IJWIN), Springer",
 "key":"Cognitive Radio and Radio Environmental Maps",
-"keyword":""
+"keyword":"TDD, CR, REM, CN, RRM, Jad"
 },
 {"authors":" S. Lahoud, K. Khawam, S. Martin, G. Feng, Z. Liang, J. Nasreddine, ",
 "title":"Energy Efficient Joint Scheduling and Power Control in Multi-Cell Wireless Networks,",
-"web":"frames/jsac16.pdf",
+"web":"https://drive.google.com/file/d/1P-HDHq_s6BdNO-490mVNQjoGYb8zb5ub/view?usp=drive_link",
 "DOI":"https://doi.org/10.1109/JSAC.2016.2611847",
 "year":"2016",
 "other":"  IEEE JSAC special issue on Green Communications and Networking",
 "key":"Green Networking",
-"keyword":""
+"keyword":"RRM, Green Networking, Jad"
 },
 {"authors":"J. Nasreddine, Loutfi Nuaymi and X. Lagrange, ",
 "title":"Adaptive Power Control Algorithm with Stabilization Zone for Third Generation Mobile Networks,",
@@ -60,7 +60,7 @@
 "year":"2006",
 "other":" Annals of telecommunications, vol. 61 n&deg;9-10",
 "key":"Power Control",
-"keyword":""
+"keyword":"RRM, PC, TDD, Jad"
 },
 {"authors":"R. Fraile, J. Nasreddine, N. Cardona and X. Lagrange, ",
 "title":"Multiple Diffraction Shadowing Simulation Model",
@@ -73,7 +73,7 @@
 },
 {"authors":" A. Gelonch, X. Rev&eacute;s, V. Marojevic, J. Nasreddine, J. P&eacute;rez-Romero, O. Sallent, ",
 "title":"A Real Time Emulator Demonstrating Advanced Resource Management Solutions,",
-"web":"frames/WPC09.pdf",
+"web":"https://drive.google.com/file/d/1_2xsByBXwd1ci_0QdtkbEN6xorMbAycD/view?usp=drive_link",
 "DOI":"https://doi.org/10.1007/s11277-009-9710-7",
 "year":"2009",
 "other":" Wireless Personal Communications Journal, Springer",
@@ -82,7 +82,7 @@
 },
 {"authors":" J. Nasreddine, O. Sallent, J. P&eacute;rez-Romero, R. Agust&iacute;, ",
 "title":"Positioning-based Framework for Secondary Spectrum Usage,",
-"web":"frames/Phycom08.pdf",
+"web":"https://drive.google.com/file/d/1NQXS4xLvJ0lgDCgxc4_kVMMotKFULs1I/view?usp=drive_link",
 "DOI":"https://doi.org/10.1016/j.phycom.2008.06.002",
 "year":"2008",
 "other":" Physical Communication, Elsevier, vol.1, n&deg; 2, pp. 121-133",
@@ -91,31 +91,31 @@
 },
 {"authors":"O. Sallent, L. Giupponi, J. Nasreddine, R. Agust&iacute;, J. P&eacute;rez-Romero, ",
 "title":"Spectrum and radio resource management,",
-"web":"frames/VT_magazine2008.pdf",
+"web":"https://drive.google.com/file/d/1jURBefytrrtEBEf-7mXM1gM8ehWzIoRD/view?usp=drive_link",
 "DOI":"https://doi.org/10.1109/MVT.2008.931527",
 "year":"2008",
 "other":" IEEE Vehicular Technology magazine, vol. 3, n&deg; 4, pp. 56-64",
 "key":"Spectrum Management and HetNet",
-"keyword":""
+"keyword":"DSA, CR, CN, ASM, Positioning, WCDMA, Secondary Networks, Jad"
 },
 {"authors":"J. Nasreddine, O. Sallent, J. P&eacute;rez-Romero and R. Agust&iacute;, ",
 "title":"Advanced spectrum management in wideband code division multiple access systems enabling cognitive radio usage,",
-"web":"frames/IET08.pdf",
+"web":"https://drive.google.com/file/d/1Ik_QEaDasOVXF7GjhXm2bBzrbj9glzzk/view?usp=drive_link",
 "DOI":"https://doi.org/10.1049/iet-com:20070497",
 "year":"2008",
 "other":" IET Communications, vol. 2, n&deg;6, pp. 794 - 805",
 "key":"Spectrum Management and HetNet",
-"keyword":""
+"keyword":"ASM, CR, CN, DSA, DCA, Positioning, Secondary Networks, WCDMA, Jad"
 }
 ],
 "conference":[ 
 {"authors":"R. Brome, J. Nasreddine, F. Bonnardot, M. Diab, M. ElBadaoui, ",
 "title":"Prediction of Elderly Falls Using the Degree of Cyclostationarity of Walk Pressure Signals,",
-"web":"frames/IECBES21.pdf",
+"web":"https://drive.google.com/file/d/1GJpVWoP1xrJvuASGrdeBjOAQhIyq9n5q/view?usp=drive_link",
 "year":"2021",
 "other":" IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES 2020), LANGKAWI, MALAYSIA",
 "key":"Machine learning for Medical Applications",
-"keyword":""
+"keyword":"Machine learning, Medical, Cyclostationarity, Jad"
 },
 {"authors":"J. Nasreddine, K. Fakih, B. Haidar, D. Serhal, S. Haidar, ",
 "title":"Estimating Base Station Power Consumption Using Regression,",
@@ -124,15 +124,15 @@
 "year":"2019",
 "other":" BioSmart 2019, Paris, France",
 "key":"Cognitive Radio, Spectrum Management, Green Networking, and HetNet",
-"keyword":""
+"keyword":"Green Networking, energy, Jad, Machine learning, regression, Jad"
 },
 {"authors":"B. Maaz, K. Khawam, S. Lahoud, J. Nasreddine, and S. Tohme, ",
 "title":"Joint User Association, Power Control and Scheduling in Multi-Cell 5G Networks,",
-"web":"",
+"web":"https://drive.google.com/file/d/1aDh5fNSgsT8iCfTpBVEKHNkgnPWe18Ix/view?usp=drive_link",
 "year":"2017",
 "other":" IEEE Wireless Communications and Networking Conference (WCNC 2017), San Francisco, USA",
 "key":"Cognitive Radio, Spectrum Management, Green Networking, and HetNet",
-"keyword":""
+"keyword":"RRM, Green Networking, Jad"
 },
 {"authors":"B. Maaz, K. Khawam, J. Nasreddine, S. Lahoud, and S. Tohme, ",
 "title":"Achieving Power and Energy Efficiency in Self-Organizing Networks,",
@@ -140,7 +140,7 @@
 "year":"2017",
 "other":" 14th IEEE Annual Consumer Communications & Networking Conference (CCNC 2017), Las Vegas, USA",
 "key":"Cognitive Radio, Spectrum Management, Green Networking, and HetNet",
-"keyword":""
+"keyword":"RRM, Green Networking, SON, Jad"
 },
 {"authors":"J. Nasreddine and S. El Hajj Hassan, ",
 "title":"Interference Mitigation and Traffic Adaptation Using Cell Clustering For LTE-TDD Systems,",

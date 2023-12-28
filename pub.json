@@ -5,7 +5,7 @@
 "year":"2017",
 "other":" Chapter in Information Innovation Technology in Smart Cities, Springer",
 "key":"Green Networking",
-"keyword":""
+"keyword":"RRM, Green Networking"
 },
 {"authors":"J. P&eacute;rez-Romero, O. Sallent, R. Agust&iacute;, J. Nasreddine, M. Muck, ",
 "title":"A decentralized RAT selection algorithm enabled by IEEE P1900.4,",
@@ -13,7 +13,7 @@
 "year":"2008",
 "other":", chapter of Advances in mobile and wireless communications &ndash; views of the 16th IST Mobile and Wireless Communication Summit, Springer",
 "key":"Spectrum Management and HetNet",
-"keyword":""
+"keyword":"HetNET, RRM"
 }
 ],
 "journal":[ 
@@ -22,13 +22,13 @@
 "web":"https://drive.google.com/file/d/1vOWg0Yju4GU59T0NNEY6e3NcXtgOP57G/view?usp=drive_link",
 "DOI":"https://doi.org/10.1109/TCCN.2017.2755010",
 "year":"2017",
-"other":" IEEE Transactions on Cognitive Communications and Networking",
+"other":"IEEE Transactions on Cognitive Communications and Networking",
 "key":"Cognitive Radio and Radio Environmental Maps",
-"keyword":""
+"keyword":"CN, CR, DSA, DCA"
 },
 {"authors":" J. van de Beek, T. Cai, S. Grimoud, P. M&auml;h&ouml;nen, J. Nasreddine, J. Riihij&auml;rvi, B. Sayrac, ",
 "title":"How a layered REM architecture brings cognition to today's mobile networks,",
-"web":"frames/WCMag12.pdf",
+"web":"https://drive.google.com/file/d/1-Xd42UPupS1ZLH-N9wwWoRcGvB1jp64W/view?usp=drive_link",
 "DOI":"https://doi.org/10.1109/MWC.2012.6272419",
 "year":"2012",
 "other":" IEEE Wireless Communications Magazine",

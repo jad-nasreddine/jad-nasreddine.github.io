@@ -257,6 +257,7 @@ TD.Title-date {
 #nav_bar table{
 	background-color:white;
 	border:0px none;
+	width:160px; 
 }
 
 A.Title {
